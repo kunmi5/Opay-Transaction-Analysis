@@ -47,6 +47,26 @@ __This project is an interactive excel dashboard designed to analyze personal fi
 
 <img width="930" height="292" alt="Screenshot 2026-04-17 010442" src="https://github.com/user-attachments/assets/0b91747a-1b35-44db-b2b6-3fd7ab82ea11" />
 
+#### Dashboard Development
+* Designed a clean and interactive dashboard layout
+* Created charts(line chart, bar chart, donut chart)
+* Added slicers for dynamic filtering
+* Applied consistent formatting and color theme
+
+<img width="878" height="415" alt="Screenshot 2026-02-27 161716" src="https://github.com/user-attachments/assets/35e91583-9dc9-4cee-8354-91d99191b4f6" />
+
+## Insights Gained
+* Most of the money spent goes through Transfer Out transactions, making it the largest expense category
+* Spending is inconsistent across months, with noticeable peaks and drops
+* A Ssmall number of recipients account for a large portion of total transactions, indicating frequent transfers to the same person
+* Clear patterns exist in cash inflow and outflow, helping to understand overall financial behavior
+
+## Recommendations
+* Monitor Transfer Out transactions closely to reduce unnecessary spending and improve financial control
+* Set a monthly spending limit or budget to maintain consistency and avoid sudden spikes in expenses
+* Track net cashflow (Credit vs Debit) regularly to ensure positive financial balance over time
+* Review frequent recipients to identify if some payments can be reduced or optimized
+
 
 
 
